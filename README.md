@@ -1,1 +1,0 @@
-# Thermal-diffusivity-instrument-setvoltage
